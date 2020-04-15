@@ -5,9 +5,9 @@
   <subtitle>Talk is cheap,Show me the girl.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://itgoyo.github.io/"/>
+  <link href="https://Education-Resources.github.io/"/>
   <updated>2020-01-02T05:53:54.669Z</updated>
-  <id>https://itgoyo.github.io/</id>
+  <id>https://Education-Resources.github.io/</id>
   
   <author>
     <name>itgoyo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2019一整年的总结与一些个人反思</title>
-    <link href="https://itgoyo.github.io/2020/11/29/2019%E4%B8%80%E6%95%B4%E5%B9%B4%E7%9A%84%E6%80%BB%E7%BB%93%E4%B8%8E%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%80%9D/"/>
-    <id>https://itgoyo.github.io/2020/11/29/2019一整年的总结与一些个人反思/</id>
+    <link href="https://Education-Resources.github.io/2020/11/29/2019%E4%B8%80%E6%95%B4%E5%B9%B4%E7%9A%84%E6%80%BB%E7%BB%93%E4%B8%8E%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%80%9D/"/>
+    <id>https://Education-Resources.github.io/2020/11/29/2019一整年的总结与一些个人反思/</id>
     <published>2020-11-29T02:33:05.000Z</published>
     <updated>2020-01-02T05:53:54.669Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>Docker容器造化钟神秀</title>
-    <link href="https://itgoyo.github.io/2020/01/19/Docker%E5%AE%B9%E5%99%A8%E9%80%A0%E5%8C%96%E9%92%9F%E7%A5%9E%E7%A7%80/"/>
-    <id>https://itgoyo.github.io/2020/01/19/Docker容器造化钟神秀/</id>
+    <link href="https://Education-Resources.github.io/2020/01/19/Docker%E5%AE%B9%E5%99%A8%E9%80%A0%E5%8C%96%E9%92%9F%E7%A5%9E%E7%A7%80/"/>
+    <id>https://Education-Resources.github.io/2020/01/19/Docker容器造化钟神秀/</id>
     <published>2020-01-19T03:48:50.000Z</published>
     <updated>2020-01-19T06:57:30.901Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="编程相关" scheme="https://itgoyo.github.io/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
+      <category term="编程相关" scheme="https://Education-Resources.github.io/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
     
     
-      <category term="Program" scheme="https://itgoyo.github.io/tags/Program/"/>
+      <category term="Program" scheme="https://Education-Resources.github.io/tags/Program/"/>
     
   </entry>
   
   <entry>
     <title>Tmux的使用教程</title>
-    <link href="https://itgoyo.github.io/2020/01/17/Tmux%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    <id>https://itgoyo.github.io/2020/01/17/Tmux的使用教程/</id>
+    <link href="https://Education-Resources.github.io/2020/01/17/Tmux%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>https://Education-Resources.github.io/2020/01/17/Tmux的使用教程/</id>
     <published>2020-01-17T07:34:00.000Z</published>
     <updated>2020-01-19T10:03:00.266Z</updated>
     
@@ -84,17 +84,17 @@
     
     </summary>
     
-      <category term="开发工具" scheme="https://itgoyo.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="开发工具" scheme="https://Education-Resources.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Android" scheme="https://itgoyo.github.io/tags/Android/"/>
+      <category term="Android" scheme="https://Education-Resources.github.io/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="https://itgoyo.github.io/2020/01/16/cnBlogs%E5%8D%9A%E5%AE%A2%E5%9B%AD%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%E7%BE%8E%E5%8C%96/"/>
-    <id>https://itgoyo.github.io/2020/01/16/cnBlogs博客园主题样式美化/</id>
+    <link href="https://Education-Resources.github.io/2020/01/16/cnBlogs%E5%8D%9A%E5%AE%A2%E5%9B%AD%E4%B8%BB%E9%A2%98%E6%A0%B7%E5%BC%8F%E7%BE%8E%E5%8C%96/"/>
+    <id>https://Education-Resources.github.io/2020/01/16/cnBlogs博客园主题样式美化/</id>
     <published>2020-01-16T06:26:33.690Z</published>
     <updated>2020-01-19T10:03:04.895Z</updated>
     
@@ -114,8 +114,8 @@
   
   <entry>
     <title>PicGo+Github+CDN加速图床,免费的难道它不香吗？</title>
-    <link href="https://itgoyo.github.io/2020/01/13/PicGo-Github-CDN%E5%8A%A0%E9%80%9F%E5%9B%BE%E5%BA%8A-%E5%85%8D%E8%B4%B9%E7%9A%84%E9%9A%BE%E9%81%93%E5%AE%83%E4%B8%8D%E9%A6%99%E5%90%97%EF%BC%9F/"/>
-    <id>https://itgoyo.github.io/2020/01/13/PicGo-Github-CDN加速图床-免费的难道它不香吗？/</id>
+    <link href="https://Education-Resources.github.io/2020/01/13/PicGo-Github-CDN%E5%8A%A0%E9%80%9F%E5%9B%BE%E5%BA%8A-%E5%85%8D%E8%B4%B9%E7%9A%84%E9%9A%BE%E9%81%93%E5%AE%83%E4%B8%8D%E9%A6%99%E5%90%97%EF%BC%9F/"/>
+    <id>https://Education-Resources.github.io/2020/01/13/PicGo-Github-CDN加速图床-免费的难道它不香吗？/</id>
     <published>2020-01-13T08:59:22.000Z</published>
     <updated>2020-01-13T09:09:35.522Z</updated>
     
@@ -130,17 +130,17 @@
     
     </summary>
     
-      <category term="开发工具" scheme="https://itgoyo.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="开发工具" scheme="https://Education-Resources.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Android" scheme="https://itgoyo.github.io/tags/Android/"/>
+      <category term="Android" scheme="https://Education-Resources.github.io/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>如何免费做一个属于自己稳定有效的图床</title>
-    <link href="https://itgoyo.github.io/2020/01/02/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%A8%B3%E5%AE%9A%E6%9C%89%E6%95%88%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
-    <id>https://itgoyo.github.io/2020/01/02/如何免费做一个属于自己稳定有效的图床/</id>
+    <link href="https://Education-Resources.github.io/2020/01/02/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%81%9A%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%A8%B3%E5%AE%9A%E6%9C%89%E6%95%88%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://Education-Resources.github.io/2020/01/02/如何免费做一个属于自己稳定有效的图床/</id>
     <published>2020-01-02T07:04:23.000Z</published>
     <updated>2020-01-02T07:35:19.360Z</updated>
     
@@ -155,17 +155,17 @@
     
     </summary>
     
-      <category term="开源项目" scheme="https://itgoyo.github.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
+      <category term="开源项目" scheme="https://Education-Resources.github.io/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
     
     
-      <category term="Android" scheme="https://itgoyo.github.io/tags/Android/"/>
+      <category term="Android" scheme="https://Education-Resources.github.io/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>关于自己每日计划是如何制定的</title>
-    <link href="https://itgoyo.github.io/2020/01/02/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1%E6%AF%8F%E6%97%A5%E8%AE%A1%E5%88%92%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%B6%E5%AE%9A%E7%9A%84/"/>
-    <id>https://itgoyo.github.io/2020/01/02/关于自己每日计划是如何制定的/</id>
+    <link href="https://Education-Resources.github.io/2020/01/02/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1%E6%AF%8F%E6%97%A5%E8%AE%A1%E5%88%92%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%B6%E5%AE%9A%E7%9A%84/"/>
+    <id>https://Education-Resources.github.io/2020/01/02/关于自己每日计划是如何制定的/</id>
     <published>2020-01-02T02:19:03.000Z</published>
     <updated>2020-01-02T05:51:53.786Z</updated>
     
@@ -180,17 +180,17 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>java多线程的4种实现方式</title>
-    <link href="https://itgoyo.github.io/2019/12/31/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9A%844%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/"/>
-    <id>https://itgoyo.github.io/2019/12/31/java多线程的4种实现方式/</id>
+    <link href="https://Education-Resources.github.io/2019/12/31/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9A%844%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F/"/>
+    <id>https://Education-Resources.github.io/2019/12/31/java多线程的4种实现方式/</id>
     <published>2019-12-31T08:00:37.000Z</published>
     <updated>2020-01-02T05:55:30.571Z</updated>
     
@@ -205,17 +205,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://itgoyo.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://itgoyo.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>2020跨年文案</title>
-    <link href="https://itgoyo.github.io/2019/12/31/2020%E8%B7%A8%E5%B9%B4%E6%96%87%E6%A1%88/"/>
-    <id>https://itgoyo.github.io/2019/12/31/2020跨年文案/</id>
+    <link href="https://Education-Resources.github.io/2019/12/31/2020%E8%B7%A8%E5%B9%B4%E6%96%87%E6%A1%88/"/>
+    <id>https://Education-Resources.github.io/2019/12/31/2020跨年文案/</id>
     <published>2019-12-31T07:37:46.000Z</published>
     <updated>2020-01-02T05:54:06.006Z</updated>
     
@@ -230,17 +230,17 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>Go语言数据类型</title>
-    <link href="https://itgoyo.github.io/2019/12/03/Go%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
-    <id>https://itgoyo.github.io/2019/12/03/Go语言数据类型/</id>
+    <link href="https://Education-Resources.github.io/2019/12/03/Go%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://Education-Resources.github.io/2019/12/03/Go语言数据类型/</id>
     <published>2019-12-03T11:09:43.000Z</published>
     <updated>2020-01-02T05:54:49.120Z</updated>
     
@@ -255,17 +255,17 @@
     
     </summary>
     
-      <category term="Go" scheme="https://itgoyo.github.io/categories/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/categories/Go/"/>
     
     
-      <category term="Go" scheme="https://itgoyo.github.io/tags/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/tags/Go/"/>
     
   </entry>
   
   <entry>
     <title>Go基础语法</title>
-    <link href="https://itgoyo.github.io/2019/12/03/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
-    <id>https://itgoyo.github.io/2019/12/03/Go基础语法/</id>
+    <link href="https://Education-Resources.github.io/2019/12/03/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    <id>https://Education-Resources.github.io/2019/12/03/Go基础语法/</id>
     <published>2019-12-03T11:03:20.000Z</published>
     <updated>2020-01-02T05:54:33.969Z</updated>
     
@@ -280,17 +280,17 @@
     
     </summary>
     
-      <category term="Go" scheme="https://itgoyo.github.io/categories/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/categories/Go/"/>
     
     
-      <category term="Go" scheme="https://itgoyo.github.io/tags/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/tags/Go/"/>
     
   </entry>
   
   <entry>
     <title>Go简单入门</title>
-    <link href="https://itgoyo.github.io/2019/12/02/Go%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/"/>
-    <id>https://itgoyo.github.io/2019/12/02/Go简单入门/</id>
+    <link href="https://Education-Resources.github.io/2019/12/02/Go%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/"/>
+    <id>https://Education-Resources.github.io/2019/12/02/Go简单入门/</id>
     <published>2019-12-02T03:45:13.000Z</published>
     <updated>2020-01-02T05:54:41.585Z</updated>
     
@@ -305,17 +305,17 @@
     
     </summary>
     
-      <category term="Go" scheme="https://itgoyo.github.io/categories/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/categories/Go/"/>
     
     
-      <category term="Go" scheme="https://itgoyo.github.io/tags/Go/"/>
+      <category term="Go" scheme="https://Education-Resources.github.io/tags/Go/"/>
     
   </entry>
   
   <entry>
     <title>没有音频输出的解决方式</title>
-    <link href="https://itgoyo.github.io/2019/11/29/%E6%B2%A1%E6%9C%89%E9%9F%B3%E9%A2%91%E8%BE%93%E5%87%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/"/>
-    <id>https://itgoyo.github.io/2019/11/29/没有音频输出的解决方式/</id>
+    <link href="https://Education-Resources.github.io/2019/11/29/%E6%B2%A1%E6%9C%89%E9%9F%B3%E9%A2%91%E8%BE%93%E5%87%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/"/>
+    <id>https://Education-Resources.github.io/2019/11/29/没有音频输出的解决方式/</id>
     <published>2019-11-29T08:21:48.000Z</published>
     <updated>2020-01-02T05:51:32.456Z</updated>
     
@@ -330,17 +330,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://itgoyo.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://itgoyo.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Linux下面OBS支持Nvenc了</title>
-    <link href="https://itgoyo.github.io/2019/11/25/Linux%E4%B8%8B%E9%9D%A2OBS%E6%94%AF%E6%8C%81Nvenc%E4%BA%86/"/>
-    <id>https://itgoyo.github.io/2019/11/25/Linux下面OBS支持Nvenc了/</id>
+    <link href="https://Education-Resources.github.io/2019/11/25/Linux%E4%B8%8B%E9%9D%A2OBS%E6%94%AF%E6%8C%81Nvenc%E4%BA%86/"/>
+    <id>https://Education-Resources.github.io/2019/11/25/Linux下面OBS支持Nvenc了/</id>
     <published>2019-11-25T06:43:23.000Z</published>
     <updated>2020-01-02T05:55:44.896Z</updated>
     
@@ -355,17 +355,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://itgoyo.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://itgoyo.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>驱动出现的黑屏各种问题和解决方式</title>
-    <link href="https://itgoyo.github.io/2019/10/30/%E9%A9%B1%E5%8A%A8%E5%87%BA%E7%8E%B0%E7%9A%84%E9%BB%91%E5%B1%8F%E5%90%84%E7%A7%8D%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/"/>
-    <id>https://itgoyo.github.io/2019/10/30/驱动出现的黑屏各种问题和解决方式/</id>
+    <link href="https://Education-Resources.github.io/2019/10/30/%E9%A9%B1%E5%8A%A8%E5%87%BA%E7%8E%B0%E7%9A%84%E9%BB%91%E5%B1%8F%E5%90%84%E7%A7%8D%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/"/>
+    <id>https://Education-Resources.github.io/2019/10/30/驱动出现的黑屏各种问题和解决方式/</id>
     <published>2019-10-30T02:51:01.000Z</published>
     <updated>2020-01-02T05:51:32.438Z</updated>
     
@@ -380,17 +380,17 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://itgoyo.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://itgoyo.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="https://Education-Resources.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Python列表和元组的详细区别</title>
-    <link href="https://itgoyo.github.io/2019/09/27/Python%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%BB%84%E7%9A%84%E8%AF%A6%E7%BB%86%E5%8C%BA%E5%88%AB/"/>
-    <id>https://itgoyo.github.io/2019/09/27/Python列表和元组的详细区别/</id>
+    <link href="https://Education-Resources.github.io/2019/09/27/Python%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%BB%84%E7%9A%84%E8%AF%A6%E7%BB%86%E5%8C%BA%E5%88%AB/"/>
+    <id>https://Education-Resources.github.io/2019/09/27/Python列表和元组的详细区别/</id>
     <published>2019-09-27T01:43:57.000Z</published>
     <updated>2019-09-27T01:47:09.395Z</updated>
     
@@ -405,17 +405,17 @@
     
     </summary>
     
-      <category term="Python" scheme="https://itgoyo.github.io/categories/Python/"/>
+      <category term="Python" scheme="https://Education-Resources.github.io/categories/Python/"/>
     
     
-      <category term="Python" scheme="https://itgoyo.github.io/tags/Python/"/>
+      <category term="Python" scheme="https://Education-Resources.github.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Python基础一</title>
-    <link href="https://itgoyo.github.io/2019/09/26/Python%E5%9F%BA%E7%A1%80%E4%B8%80/"/>
-    <id>https://itgoyo.github.io/2019/09/26/Python基础一/</id>
+    <link href="https://Education-Resources.github.io/2019/09/26/Python%E5%9F%BA%E7%A1%80%E4%B8%80/"/>
+    <id>https://Education-Resources.github.io/2019/09/26/Python基础一/</id>
     <published>2019-09-26T11:26:16.000Z</published>
     <updated>2019-09-27T01:08:05.667Z</updated>
     
@@ -430,17 +430,17 @@
     
     </summary>
     
-      <category term="Python" scheme="https://itgoyo.github.io/categories/Python/"/>
+      <category term="Python" scheme="https://Education-Resources.github.io/categories/Python/"/>
     
     
-      <category term="Python" scheme="https://itgoyo.github.io/tags/Python/"/>
+      <category term="Python" scheme="https://Education-Resources.github.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>我个人Mac常用的软件推荐</title>
-    <link href="https://itgoyo.github.io/2019/09/25/%E6%88%91%E4%B8%AA%E4%BA%BAMac%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
-    <id>https://itgoyo.github.io/2019/09/25/我个人Mac常用的软件推荐/</id>
+    <link href="https://Education-Resources.github.io/2019/09/25/%E6%88%91%E4%B8%AA%E4%BA%BAMac%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>https://Education-Resources.github.io/2019/09/25/我个人Mac常用的软件推荐/</id>
     <published>2019-09-25T09:58:49.000Z</published>
     <updated>2020-01-02T05:51:32.456Z</updated>
     
@@ -455,17 +455,17 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>html转png遇到的问题</title>
-    <link href="https://itgoyo.github.io/2019/09/02/html%E8%BD%ACpng%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-    <id>https://itgoyo.github.io/2019/09/02/html转png遇到的问题/</id>
+    <link href="https://Education-Resources.github.io/2019/09/02/html%E8%BD%ACpng%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>https://Education-Resources.github.io/2019/09/02/html转png遇到的问题/</id>
     <published>2019-09-02T03:13:34.000Z</published>
     <updated>2020-01-02T05:55:15.464Z</updated>
     
@@ -480,17 +480,17 @@
     
     </summary>
     
-      <category term="编程相关" scheme="https://itgoyo.github.io/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
+      <category term="编程相关" scheme="https://Education-Resources.github.io/categories/%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/"/>
     
     
-      <category term="Program" scheme="https://itgoyo.github.io/tags/Program/"/>
+      <category term="Program" scheme="https://Education-Resources.github.io/tags/Program/"/>
     
   </entry>
   
   <entry>
     <title>记买一个4K显示器的过程</title>
-    <link href="https://itgoyo.github.io/2019/08/28/%E8%AE%B0%E4%B9%B0%E4%B8%80%E4%B8%AA4K%E6%98%BE%E7%A4%BA%E5%99%A8%E7%9A%84%E8%BF%87%E7%A8%8B/"/>
-    <id>https://itgoyo.github.io/2019/08/28/记买一个4K显示器的过程/</id>
+    <link href="https://Education-Resources.github.io/2019/08/28/%E8%AE%B0%E4%B9%B0%E4%B8%80%E4%B8%AA4K%E6%98%BE%E7%A4%BA%E5%99%A8%E7%9A%84%E8%BF%87%E7%A8%8B/"/>
+    <id>https://Education-Resources.github.io/2019/08/28/记买一个4K显示器的过程/</id>
     <published>2019-08-28T01:25:09.000Z</published>
     <updated>2020-01-02T05:51:32.241Z</updated>
     
@@ -505,10 +505,10 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活随笔" scheme="https://itgoyo.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="https://Education-Resources.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
